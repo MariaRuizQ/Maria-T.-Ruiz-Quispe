@@ -2,15 +2,27 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 
 /*nav*/
+.logofinal{
+  height: 8vh;
+  margin-bottom: 50%;
+  margin-left: 1%;
+}
 .nav-style{
+  font-weight: 900;
+  font-size: 50%;
+}
+.nav-letter{
   font-weight: 900;
 }
 .background-nav{
-  background-color: #924b45;
+  background: transparent;
+  position: fixed;
+  z-index: 1000;
+  border-bottom: none;
 }
 .logo{
   height: 20px;
@@ -19,7 +31,7 @@
 
 /*main*/
 .content-main{
-  margin-top: 100px;
+  margin-top: 80px;
   color: white;
   font-weight: 900;
 }
@@ -34,10 +46,11 @@
 	justify-content: flex-end;
 }
 .user-expert{
-  margin-top: 60px;
+  margin-top: 20px;
+  font-weight: 700;
 }
 .button-cv{
-  background-color: #924b45;
+  background-color: #fb9c73;
   margin-left: 115px;
   margin-top: 30px;
 }
@@ -45,7 +58,7 @@
   margin-top: 150px;
 }
 .icon-plus{
-  color: #924b45;
+  color: #fb9c73;
   margin-left: 60px;
 }
 
@@ -54,9 +67,13 @@
   height: 100vh;
   background-color: #f3f1e2;
 }
-
 .info{
-  color: #color: #be9a80;;
+  color: #be9a80;
+  font-size: 150%;
+}
+.info-final{
+  color: #be9a80;
+  margin-top: 90px;
 }
 .div-photo {
   perspective: 1000px;
