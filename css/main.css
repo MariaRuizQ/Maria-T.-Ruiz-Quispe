@@ -146,3 +146,15 @@ div:hover figure:before {
     font-size: 3vw;
   }
 }
+
+.proyectos{
+  background-color: red;
+}
+
+.habilidades{
+  background-color: blue;
+}
+
+.contacto{
+  background-color: green;
+}
