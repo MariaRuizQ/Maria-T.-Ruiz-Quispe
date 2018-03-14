@@ -7,7 +7,7 @@
 
 /*nav*/
 .logofinal{
-  height: 8vh;
+  height: 5vh;
   margin-bottom: 50%;
   margin-left: 1%;
 }
@@ -23,6 +23,7 @@
   position: fixed;
   z-index: 1000;
   border-bottom: none;
+  background-color: #211c25;
 }
 .logo{
   height: 20px;
@@ -50,16 +51,19 @@
   font-weight: 700;
 }
 .button-cv{
-  background-color: #fb9c73;
-  margin-left: 115px;
-  margin-top: 30px;
+  background-color: #cf3b28;
+  margin-top: 50px;
+
+}
+.name-me{
+  color:#cf3b28;
 }
 .mas-sobre{
-  margin-top: 150px;
+  margin-top: 340px;
 }
 .icon-plus{
-  color: #fb9c73;
-  margin-left: 60px;
+  color: #cf3b28;
+  margin-left: 10px;
 }
 
 /*section 2*/
@@ -67,13 +71,25 @@
   height: 100vh;
   background-color: #f3f1e2;
 }
+.color-letter{
+  color: #be9a80;
+  font-size: 60%;
+}
+
+.color-letter-2{
+  color: #be9a80;
+  font-size: 100%;
+}
+.p-perfil{
+  font-size: 120%;
+}
 .info{
   color: #be9a80;
-  font-size: 150%;
+  font-size: 120%;
 }
 .info-final{
   color: #be9a80;
-  margin-top: 90px;
+  margin-top: 50px;
 }
 .div-photo {
   perspective: 1000px;

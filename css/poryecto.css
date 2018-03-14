@@ -260,11 +260,16 @@ transform: translateY(-50%) translateX(0px)  scale(1);
   height: 100%;
 }
 
-.icons{
+.icons1{
+  width: 20%;
+  height: 20%;
+  margin-left: 2%;
+  margin-top: 2%;
+}
+.icons2{
   width: 50%;
   height: 50%;
 }
-
 .text{
   font-family: 'Quicksand', sans-serif;
 }
