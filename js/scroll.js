@@ -9,7 +9,7 @@ $(document).ready(function(){
   $(function() {
   $('scroll-2').on('click', function(e) {
     e.preventDefault();
-    $('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top}, 400, 'linear');
+    $('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top}, 500, 'linear');
   });
   });
 });
