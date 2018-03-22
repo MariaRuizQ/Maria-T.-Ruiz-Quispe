@@ -21,4 +21,13 @@ $(document).ready(function(){
     $(".back-2-btn").on("click",function(){
         $(".sec-C").removeClass("showing");
     });
+    $(".click-proyectos").on("click",function(){
+        $(".sec-A").addClass("showing");
+    });
+    $(".click-habilidades").on("click",function(){
+        $(".sec-B").addClass("showing");
+    });
+    $(".click-contacto").on("click",function(){
+        $(".sec-C").addClass("showing");
+    });
 });
