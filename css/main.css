@@ -69,7 +69,6 @@
 
 /*section 2*/
 .section-2{
-  height: 100vh;
   background-color: #f3f1e2;
 }
 .color-letter{
@@ -88,6 +87,17 @@
   color: #be9a80;
   font-size: 120%;
 }
+.color-letter-3{
+  color: #be9a80;
+  font-size: 100%;
+}
+.p-perfil-1{
+  font-size: 120%;
+}
+.info-1{
+  color: #be9a80;
+  font-size: 100%;
+}
 .info-final{
   color: #be9a80;
   margin-top: 50px;
@@ -98,6 +108,7 @@
   margin-left: 1rem;
   margin-top: 1rem;
 }
+
 figure {
   margin: 0;
   width: 100%;
@@ -152,7 +163,7 @@ div:hover figure:before {
 
 @media screen and (max-width: 500px) {
   div {
-    width: 80%;
+    width: 100%;
     margin-top: 1rem;
   }
   figure {
@@ -179,4 +190,22 @@ div:hover figure:before {
 .icon-scroll-2{
   margin-left: 725px;
   margin-top: -20px;
+}
+
+.icon-footer{
+  width: 20%;
+  height: 20%;
+  margin-top: 4%;
+  margin-bottom: 4%;
+}
+.icon-footer-1{
+  width: 80%;
+  height: 80%;
+  margin-bottom: 10%;
+  margin-right: 10%;
+}
+.content-footer{
+  background-color: #42394a;
+  margin: 0;
+  padding: 0;
 }
