@@ -237,7 +237,7 @@ transform: translateY(-50%) translateX(0px)  scale(1);
 
 .centerflipcards{
   display:block;
-  width:1330px;
+  width:100%;
   height:100%;
   text-align:center;
   margin:0 auto;
@@ -284,4 +284,13 @@ transform: translateY(-50%) translateX(0px)  scale(1);
 .style-title-tools{
   background-color:  #42394a;
   margin: 0;
+}
+
+.text-proyect-movil{
+  font-size: 17px;
+}
+
+.kallyas-button-2{
+  font-size: 25px;
+  color: #ff1900
 }
