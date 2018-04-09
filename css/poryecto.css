@@ -266,8 +266,30 @@ transform: translateY(-50%) translateX(0px)  scale(1);
   margin-top: 2%;
 }
 .icons2{
+  width: 30%;
+  height: 30%;
+}
+.icons3{
+  width: 10%;
+  height: 10%;
+  margin-left: 2%;
+  margin-top: 2%;
+}
+.icons4{
   width: 50%;
   height: 50%;
+}
+
+.style-herramientas{
+  color:#42394a;
+  font-size: 20px;
+  font-weight: 900;
+}
+.h4-proyect{
+  font-size: 18px;
+}
+.color-title{
+  color: #ff1900;
 }
 .text{
   font-family: 'Quicksand', sans-serif;
@@ -293,4 +315,18 @@ transform: translateY(-50%) translateX(0px)  scale(1);
 .kallyas-button-2{
   font-size: 25px;
   color: #ff1900
+}
+
+.proyect-1{
+  border: 2px solid #42394a;
+  border-radius: 8%;
+}
+
+.name-me-2{
+  font-size: 50px;
+}
+
+.zise-contect{
+  font-size: 16px;
+  font-weight: 600;
 }

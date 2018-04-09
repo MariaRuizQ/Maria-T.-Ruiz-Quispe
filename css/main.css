@@ -53,7 +53,6 @@
 }
 .button-cv{
   background-color: #cf3b28;
-  margin-top: 5px;
 
 }
 .name-me{
@@ -209,4 +208,8 @@ div:hover figure:before {
   background-color: #42394a;
   height: 100%;
   padding: 0;
+}
+
+.zise-footer{
+  height: 120px;
 }
