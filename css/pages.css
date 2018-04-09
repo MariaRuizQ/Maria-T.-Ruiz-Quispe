@@ -219,6 +219,8 @@ html,body{
     cursor: pointer;
     font-weight: 300;
     font-size: 15px;
+    margin: 0;
+    padding: 0;
 }
 .begin{
     margin: 30px auto;

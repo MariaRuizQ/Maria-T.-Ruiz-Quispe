@@ -53,14 +53,16 @@
 }
 .button-cv{
   background-color: #cf3b28;
-  margin-top: 50px;
+  margin-top: 5px;
 
 }
 .name-me{
   color:#cf3b28;
+  padding: 0;
+  margin-top: 1%;
 }
 .mas-sobre{
-  margin-top: 340px;
+  margin-top: 240px;
 }
 .icon-plus{
   color: #cf3b28;
@@ -81,7 +83,7 @@
   font-size: 100%;
 }
 .p-perfil{
-  font-size: 120%;
+  font-size: 90%;
 }
 .info{
   color: #be9a80;
@@ -100,7 +102,7 @@
 }
 .info-final{
   color: #be9a80;
-  margin-top: 50px;
+  margin-top: 30px;
 }
 .div-photo {
   perspective: 1000px;
@@ -188,7 +190,7 @@ div:hover figure:before {
 }
 
 .icon-scroll-2{
-  margin-left: 725px;
+  margin-left: 48%;
   margin-top: -20px;
 }
 
@@ -199,13 +201,12 @@ div:hover figure:before {
   margin-bottom: 4%;
 }
 .icon-footer-1{
-  width: 80%;
-  height: 80%;
-  margin-bottom: 10%;
+  width: 50%;
+  height: 50%;
   margin-right: 10%;
 }
 .content-footer{
   background-color: #42394a;
-  margin: 0;
+  height: 100%;
   padding: 0;
 }

@@ -5,15 +5,15 @@
   font-family: 'Quicksand', sans-serif;
 }
 .square-flip{
--webkit-perspective: 1000;
--moz-perspective: 1000;
--ms-perspective: 1000;
-perspective: 1000;
+-webkit-perspective: 800;
+-moz-perspective: 800;
+-ms-perspective: 800;
+perspective: 800;
 
--webkit-transform: perspective(1000px);
--moz-transform: perspective(1000px);
--ms-transform: perspective(1000px);
-transform: perspective(1000px);
+-webkit-transform: perspective(800px);
+-moz-transform: perspective(800px);
+-ms-transform: perspective(800px);
+transform: perspective(800px);
 
 -webkit-transform-style: preserve-3d;
 -moz-transform-style: preserve-3d;
@@ -27,8 +27,7 @@ margin:20px;
 
 }
 .square-flip{
-  width:400px;
-  height:400px;
+  height:200px;
 }
 .square,.square2{
   width:100%;
@@ -183,8 +182,8 @@ transform: translateY(-50%) translateX(0px)  scale(1);
 }
 .kallyas-button{
   display:block;
-  width:160px;
-  padding:18px 30px;
+  width:150px;
+  padding:15px 25px;
   font-weight:600;
   color:#fff;
   background:#cf3b28;
@@ -239,7 +238,7 @@ transform: translateY(-50%) translateX(0px)  scale(1);
 .centerflipcards{
   display:block;
   width:1330px;
-  height:440px;
+  height:100%;
   text-align:center;
   margin:0 auto;
   margin-top:25px;
@@ -247,7 +246,7 @@ transform: translateY(-50%) translateX(0px)  scale(1);
 .clearfix{clear:both;}
 .centerflipcards p{
   font-size:13px;
-  margin-top:10px;
+  margin-top:5px;
   font-weight:700;
 }
 
